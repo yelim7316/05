@@ -12,7 +12,7 @@ int main(int argc, char *argv[]) {
 	if(i < 0)
 	   i = i*(-1);
 	
-	printf("절대값은 %d 입니다. \n", i);
+	printf("절대값은 %i 입니다. \n", i);
 	
 	return 0;
 }
